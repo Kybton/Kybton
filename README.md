@@ -1,16 +1,16 @@
-### Hi there 👋
+<div id="header" align="center">
+  <h1>Min Oak Kyaw</h1>
 
-<!--
-**Kybton/Kybton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h3>Backend Engineer</h3>
 
-Here are some ideas to get you started:
+  <img src="https://www.codewars.com/users/Min%20Oak%20Kyaw/badges/large">
+  <hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kybton&theme=dark">
+    <img style="border-radius:1.5%;border:2px solid #fff" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdoeGk1dndxcnIwNDY1eDIyM282MmgzYXh2dW5uc3V5MWkwczdxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xVRRDVP6lqtNQJrzN7/giphy.gif"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kybton&hide=html,php,jupyter-notebook,Jupyter+Notebook&layout=donut&theme=gruvbox">
+  </div>
+  <hr>
+  
+</div>
