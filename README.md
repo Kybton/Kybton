@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h1>Min Oak Kyaw</h1>
 
-  <h3>Backend Engineer</h3>
+  <h3>Software Engineer</h3>
 
   <img src="https://www.codewars.com/users/Min%20Oak%20Kyaw/badges/large">
   <hr>
